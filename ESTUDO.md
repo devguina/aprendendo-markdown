@@ -1,5 +1,3 @@
-# testando h1 sem linha sublinhada
+# h1 funciona igual das duas maneiras, eu estava viajando
 
-
-testando h2 com linha
----
+##assim como no h2 e demaais
